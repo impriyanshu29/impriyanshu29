@@ -38,7 +38,7 @@ As a dedicated **MERN Stack Developer**, I specialize in leveraging the power of
 I am always open to networking and collaboration. Feel free to reach out to me via the following platforms:
 
 - **LinkedIn**: [Connect withh Me](https://www.linkedin.com/in/iampriyanshu29/)
-- **Portfolio**: [Priyanshu Tiwari](www.priyanshutiwari.me)
+- **Portfolio**: [Priyanshu Tiwari](https://www.priyanshutiwari.me/)
 - **Email**: [Email me](mailto:iampriyanshu2901@hotmail.com)
 
 ---
